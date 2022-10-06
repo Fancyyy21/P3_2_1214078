@@ -13,6 +13,10 @@ namespace P3_2_1214078
         static void Main(string[] args)
         {
 
+            /*Nama : Maulana Imanulhaq Nurdiana
+              NPM  : 1214078*/
+
+
             bool finished = false;
 
             do 
